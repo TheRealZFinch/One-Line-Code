@@ -10,7 +10,7 @@ Tout (short for "temporary out") and counter<br/><br/>
 There are 10 commands:<br/>
 /: Adds character that is after it to Tout<br/>
 \*: Clears Tout<br/>
-<: Gets one character stdin and adds it to Tout (First < gets first character from stdin, second < gets second character from stdin etc.)<br/>
+<: Gets one character from stdin and adds it to Tout (First < gets first character from stdin, second < gets second character from stdin etc.)<br/>
 \>: Prints Tout<br/>
 #: Changes website's background color to the name of color stored in Tout<br/>
 +: Increases counter by 1<br/>
