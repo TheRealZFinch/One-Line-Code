@@ -20,5 +20,5 @@ There are 10 commands:<br/>
 &: If character before it isn't equal to Tout skips one command<br/>
 
 # How to use interpreter:
-In first text box enter code then press run<br/>
+In the first text box enter code then press run<br/>
 In the second text box you enter stdin
